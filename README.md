@@ -73,7 +73,7 @@
 
 ## 데모영상
 
-- **데모영상 링크**: [여기에 링크 추가]
+(https://github.com/han-eunyoeng/CloudMedi/commit/40a40afb0dfd7dc054b279727db28a93d6782bc6)
 
 ---
 
